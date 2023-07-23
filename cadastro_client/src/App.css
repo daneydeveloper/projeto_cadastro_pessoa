@@ -1,0 +1,71 @@
+.App {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.user-details {
+  max-width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title-page {
+  text-align: left;
+  font-weight: 400;
+}
+
+.search-and-create {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.enderecos-title {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.search {
+  width: 30%;
+}
+
+.btn-search {
+  margin-left: 10px;
+}
+
+.btn-new-user {
+  width: 60%;
+  text-align-last: right;
+}
+
+.btn-novo-enderco {
+  width: 100%;
+  text-align-last: right;
+}
+
+.address {
+  max-width: 200px;
+}
+
+.buttons {
+  min-width: 190px;
+}
+
+.buttons-endereco {
+  min-width: 190px;
+  text-align-last: right;
+}
+
+.btn-salvar-usuario {
+  top: 10px;
+}
+
+.btn-remove {
+  left: 5px;
+}
